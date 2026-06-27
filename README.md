@@ -1,16 +1,22 @@
-## Hi there 👋
+Hey there! 👋
 
-<!--
-**painjanevivek/painjanevivek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Vivek Painjane**, a developer based in **India**.
 
-Here are some ideas to get you started:
+I design and build practical software projects, from web apps to backend tools and AI-powered ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+If an idea pops into my head, chances are I'll try to build it and ship it.
+
+My main tech stack includes **Python**, **TypeScript**, **HTML**, and **C**. I'm currently exploring full-stack development, APIs, AI tools, and product-focused apps.
+
+I've worked on projects like **Trendinglook**, **Tracemoney**, **Homespace**, and **AiGlobalIntel**.
+
+I'm always learning, experimenting, and improving by building real projects.
+
+Fun Facts:
+
+- 🔭 I’m currently working on web and AI-based projects
+- 🌱 I’m currently learning full-stack development and API integrations
+- 👯 I’m looking to collaborate on useful open-source and startup-style projects
+- 💬 Ask me about Python, web development, APIs, and project ideas
+- 📫 How to reach me: GitHub
+- ⚡ Fun fact: I like turning random ideas into working products
