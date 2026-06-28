@@ -14,12 +14,12 @@ I'm always learning, experimenting, and improving by building real projects.
 
 Fun Facts:
 
-- 🔭 I’m currently working on web and AI-based projects
-- 🌱 I’m currently learning full-stack development and API integrations
-- 👯 I’m looking to collaborate on useful open-source and startup-style projects
-- 💬 Ask me about Python, web development, APIs, and project ideas
-- 📫 How to reach me: GitHub
-- ⚡ Fun fact: I like turning random ideas into working products
+-  I’m currently working on web and AI-based projects
+-  I’m currently learning full-stack development and API integrations
+-  I’m looking to collaborate on useful open-source and startup-style projects
+-  Ask me about Python, web development, APIs, and project ideas
+-  How to reach me: GitHub
+-  Fun fact: I like turning random ideas into working products
 
 ## 💻 Tech Stack
 
