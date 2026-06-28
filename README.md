@@ -6,9 +6,7 @@ I design and build practical software projects, from web apps to backend tools a
 
 If an idea pops into my head, chances are I'll try to build it and ship it.
 
-My main tech stack includes **Python**, **TypeScript**, **HTML**, and **C**. I'm currently exploring full-stack development, APIs, AI tools, and product-focused apps.
-
-I've worked on projects like **Trendinglook**, **Tracemoney**, **Homespace**, and **AiGlobalIntel**.
+I've worked on projects like **Moneykai**, **IroGuide**, **GetMD**, and **GSTFlow**.
 
 I'm always learning, experimenting, and improving by building real projects.
 
