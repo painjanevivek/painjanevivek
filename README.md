@@ -16,7 +16,6 @@ Fun Facts:
 -  I’m currently learning full-stack development and API integrations
 -  I’m looking to collaborate on useful open-source and startup-style projects
 -  Ask me about Python, web development, APIs, and project ideas
--  How to reach me: GitHub
 -  Fun fact: I like turning random ideas into working products
 
 ## 💻 Tech Stack
