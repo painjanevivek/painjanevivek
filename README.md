@@ -39,9 +39,9 @@
 
 ## About
 
-I am Vivek Painjane, a Computer Engineering student at PCCOE Pune. I build practical software products across full-stack development, AI/ML, fintech, healthcare, tax compliance, and business automation.
+I am Vivek Painjane, a Computer Engineering student at PCCOE Pune. I build practical software products across full-stack development, AI/ML, fintech, healthcare, and business automation.
 
-Most of my work starts from a real problem: tracking money better, reviewing creative work with AI, reconciling GST data, simulating fraud transactions, or turning raw information into dashboards people can actually use. I care about simple product flows, clean backend design, secure APIs, and shipping things that work outside a demo.
+Most of my work starts from a real problem: tracking money better, reviewing creative work with AI, simulating fraud transactions, or turning raw information into dashboards people can actually use. I care about simple product flows, clean backend design, secure APIs, and shipping things that work outside a demo.
 
 I work mainly with Python, TypeScript, React, Node.js, Firebase, cloud tools, and applied machine learning libraries. I am currently learning deeper backend architecture, API security, AI agents, and production SaaS patterns.
 
