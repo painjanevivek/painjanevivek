@@ -61,35 +61,44 @@ I enjoy turning complex problem spaces into clean, usable software. My current w
 ### Languages
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,js,ts" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ts" />
 </p>
 
 ### Frontend
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind" />
+</p>
+
+### Mobile
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,expo" />
 </p>
 
 ### Backend & Databases
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,firebase,mongodb,postgres,mysql,prisma" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,fastapi,firebase,sqlite,mysql,mongodb,postgres,prisma" />
 </p>
 
 ### Cloud, DevOps & Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=aws,git,github,githubactions,vercel,vscode,figma" />
+  <img src="https://skillicons.dev/icons?i=aws,docker,git,github,githubactions,vercel,vscode,figma" />
 </p>
+
+### AI / ML & Data
 
 <p align="center">
   <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
   <img src="https://img.shields.io/badge/XGBoost-4F46E5?style=flat-square&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square&logo=openai&logoColor=white" />
 </p>
-
 ---
 
 ## AI / ML Expertise
@@ -336,38 +345,6 @@ Supported large-scale technical fest operations with focus on participant onboar
 | GenAI Fraud Analytics | Improved Fraud Recall from 18% to 87%, F1 from 0.29 to 0.84, AUC-ROC from 0.71 to 0.96 |
 | Hackathon Participation | OpenAI Buildathon, Google Cloud Agentic AI Hackathon, Codigo PCCOE |
 | Competitive Gaming Wins | 1st Prize in Valorant tournaments at SILVERA, CYBERKAVACH, and ANVESHAN |
-
----
-
-## Certifications
-
-### AWS
-
-<p>
-  <img src="https://img.shields.io/badge/AWS%20For%20Everyone-Udemy-6D28D9?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/39%20Hours-April%202026-312E81?style=for-the-badge" />
-</p>
-
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-4C1D95?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Data%20Systems-312E81?style=for-the-badge" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science-4F46E5?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Software%20Engineering-312E81?style=for-the-badge" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-6D28D9?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Networks%20%26%20Security-312E81?style=for-the-badge" />
-</p>
 
 ---
 
