@@ -424,4 +424,3 @@ Building software that is useful, secure, and easy to keep improving.
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,45:0F766E,100:0D1117&height=130&section=footer" width="100%" />
 
 </div>
-````
