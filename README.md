@@ -354,52 +354,6 @@ Supported participant registration and logistics during the technical fest.
   <img src="https://img.shields.io/badge/39%20Hours-April%202026-0F172A?style=for-the-badge" />
 </p>
 
-### Oracle
-
-<p>
-  <img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-0369A1?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Data%20Systems-0F172A?style=for-the-badge" />
-</p>
-
-### NPTEL
-
-<p>
-  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Software%20Engineering-0F172A?style=for-the-badge" />
-</p>
-
-### Cisco
-
-<p>
-  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-0369A1?style=for-the-badge&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Focus-Networks%20%26%20Security-0F172A?style=for-the-badge" />
-</p>
-
----
-
-## GitHub analytics
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=painjanevivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" />
-<img width="49%" src="https://streak-stats.demolab.com?user=painjanevivek&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
-
-<br />
-
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painjanevivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
-
-</div>
-
----
-
-## GitHub trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=painjanevivek&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
-
-</div>
-
 ---
 
 ## Contribution activity
@@ -407,20 +361,6 @@ Supported participant registration and logistics during the technical fest.
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=painjanevivek&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=38BDF8&area=true&area_color=0F766E&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
-
-</div>
-
----
-
-## Contribution snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-snake.svg" />
-</picture>
 
 </div>
 
