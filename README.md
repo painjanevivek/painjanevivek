@@ -360,7 +360,7 @@ Supported participant registration and logistics during the technical fest.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=painjanevivek&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=38BDF8&area=true&area_color=0F766E&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=painjanevivek&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=38BDF8&area=true&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 </div>
 
