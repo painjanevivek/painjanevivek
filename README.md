@@ -1,37 +1,38 @@
+````markdown
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111827,35:4C1D95,70:6D28D9,100:312E81&height=230&section=header&text=Vivek%20Painjane&fontSize=58&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Engineer%20%7C%20AI%2FML%20Builder%20%7C%20Product-Minded%20Developer&descAlignY=58&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,45:0F766E,100:0369A1&height=220&section=header&text=Vivek%20Painjane&fontSize=56&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20AI%2FML%20Builder%20%7C%20Computer%20Engineering%20Student&descAlignY=58&descSize=17" width="100%" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=800&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+production-grade+software+products;AI%2FML+%2B+Full-Stack+Engineering;FinTech%2C+Healthcare%2C+TaxTech+and+Automation;Clean+architecture.+Secure+systems.+Real+impact." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=23&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&width=900&lines=Building+practical+software+products;Working+across+AI%2C+fintech%2C+taxtech+and+automation;Full-stack+engineering+with+a+product+mindset;Clean+systems.+Useful+features.+Better+shipping." alt="Typing SVG" />
 
 <br />
 
-<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-6D28D9?style=flat-square&logo=academia&logoColor=white" />
-<img src="https://img.shields.io/badge/PCCOE-Pune-4F46E5?style=flat-square&logo=google-scholar&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Pune%2C%20India-312E81?style=flat-square&logo=googlemaps&logoColor=white" />
+<img src="https://img.shields.io/badge/B.Tech-Computer%20Engineering-0F766E?style=flat-square&logo=academia&logoColor=white" />
+<img src="https://img.shields.io/badge/PCCOE-Pune-0369A1?style=flat-square&logo=google-scholar&logoColor=white" />
+<img src="https://img.shields.io/badge/Location-Pune%2C%20India-0F172A?style=flat-square&logo=googlemaps&logoColor=white" />
 
 <br />
 <br />
 
 <a href="https://dev.to/painjanevivek">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
 </a>
 <a href="https://www.linkedin.com/pub/dir/+/Painjane">
-  <img src="https://img.shields.io/badge/LinkedIn-1E1B4B?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 <a href="mailto:painjanevivek@gmail.com">
-  <img src="https://img.shields.io/badge/Email-312E81?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 <a href="https://github.com/painjanevivek">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 
 <br />
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=painjanevivek&style=flat-square&color=6D28D9&label=Profile%20Views" />
-<img src="https://img.shields.io/github/followers/painjanevivek?style=flat-square&color=4F46E5&label=Followers&logo=github" />
-<img src="https://img.shields.io/github/stars/painjanevivek?style=flat-square&color=8B5CF6&label=Stars&logo=github" />
+<img src="https://komarev.com/ghpvc/?username=painjanevivek&style=flat-square&color=0891B2&label=Profile%20Views" />
+<img src="https://img.shields.io/github/followers/painjanevivek?style=flat-square&color=0F766E&label=Followers&logo=github" />
+<img src="https://img.shields.io/github/stars/painjanevivek?style=flat-square&color=0369A1&label=Stars&logo=github" />
 
 </div>
 
@@ -39,19 +40,19 @@
 
 ## About
 
-I am **Vivek Painjane**, a Computer Engineering undergraduate at **PCCOE Pune** focused on building practical, production-ready software across **AI/ML, full-stack development, fintech, healthcare, tax compliance, and business automation**.
+I am Vivek Painjane, a Computer Engineering student at PCCOE Pune. I build practical software products across full-stack development, AI/ML, fintech, healthcare, tax compliance, and business automation.
 
-My engineering work sits at the intersection of **software architecture, applied intelligence, secure backend systems, and product execution**. I build systems that move beyond prototypes: authenticated user flows, database-backed dashboards, AI-assisted workflows, cloud deployments, API protections, analytics, automation, and privacy-aware product experiences.
+Most of my work starts from a real problem: tracking money better, reviewing creative work with AI, reconciling GST data, simulating fraud transactions, or turning raw information into dashboards people can actually use. I care about simple product flows, clean backend design, secure APIs, and shipping things that work outside a demo.
 
-I enjoy turning complex problem spaces into clean, usable software. My current work includes **personal finance platforms, AI critique systems, GST reconciliation tools, fraud simulation pipelines, GIS intelligence dashboards, and ML recommendation systems**.
+I work mainly with Python, TypeScript, React, Node.js, Firebase, cloud tools, and applied machine learning libraries. I am currently learning deeper backend architecture, API security, AI agents, and production SaaS patterns.
 
-**Open To**
+**Open to**
 
 | Area | Interest |
 |---|---|
-| Software Engineering | Full-stack, backend, platform, product engineering |
+| Software Engineering | Full-stack, backend, product engineering |
 | AI/ML Engineering | Applied ML, GenAI workflows, fraud analytics, recommendation systems |
-| Open Source | Developer tools, practical automation, security-focused utilities |
+| Open Source | Developer tools, automation, practical AI systems |
 | Internships | Software engineering, AI engineering, cloud/backend engineering |
 
 ---
@@ -96,43 +97,44 @@ I enjoy turning complex problem spaces into clean, usable software. My current w
   <img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
   <img src="https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-4F46E5?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-6D28D9?style=flat-square&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/XGBoost-0F766E?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-0369A1?style=flat-square&logo=openai&logoColor=white" />
 </p>
+
 ---
 
-## AI / ML Expertise
+## AI / ML expertise
 
 | Domain | Proficiency | Details |
 |---|---:|---|
-| Applied Machine Learning | Advanced | Built explainable ML systems, recommendation engines, fraud analytics, and structured model evaluation pipelines |
-| Generative AI | Advanced | Developed synthetic fraud simulation workflows using CTGAN, TVAE, SDV, and model comparison pipelines |
-| AI Product Engineering | Advanced | Built AI-assisted review, feedback, improvement planning, and user history workflows in production apps |
-| Data Science | Intermediate | Uses Pandas, NumPy, Scikit-learn, XGBoost, metrics, feature pipelines, and evaluation baselines |
-| Recommendation Systems | Intermediate | Built quiz-based recommendation flow backed by neural-network-driven housing suggestions |
-| Security-Aware AI Systems | Intermediate | Applies token verification, rate limits, origin checks, log redaction, SSRF protections, and backend-first handling |
+| Applied Machine Learning | Advanced | Built ML systems for medicine substitution, housing recommendations, and fraud analytics |
+| Generative AI | Advanced | Worked with CTGAN, TVAE, SDV, and XGBoost for synthetic fraud transaction simulation |
+| AI Product Engineering | Advanced | Built AI-assisted feedback, review history, improvement plans, and user dashboards |
+| Data Science | Intermediate | Uses Pandas, NumPy, Scikit-learn, Plotly, metrics, baselines, and model evaluation |
+| Recommendation Systems | Intermediate | Built quiz-based recommendation workflows with a Python ML backend |
+| API Security | Intermediate | Applies auth checks, rate limits, secure headers, log redaction, and backend-first handling |
 
 ---
 
-## Featured Projects
+## Featured projects
 
 <details open>
 <summary><b>MoneyKai - Personal Finance & Budget Management App</b></summary>
 
 <br />
 
-**Production finance platform for expense tracking, budgeting, savings, shared expenses, notes, analytics, imports, backup/restore, billing, AI review, and privacy-focused financial workflows.**
+A personal finance app for expense tracking, budgeting, savings, shared expenses, notes, analytics, backup and restore, billing, AI review, Gmail imports, statement imports, and privacy-focused finance workflows.
 
 | Category | Details |
 |---|---|
 | Stack | Expo, React, TypeScript, Firebase, Firestore |
 | Scale | Cross-platform finance app with authenticated user data flows |
-| Performance | Optimized app flows for responsive finance tracking and analytics |
-| Security | Firebase auth, backend-first sensitive workflows, security headers, rate limits, secret separation |
-| Impact | Helps users manage money, budgets, savings, shared expenses, and financial imports |
+| Performance | Responsive finance tracking, analytics, imports, and backup workflows |
+| Security | Firebase auth, backend-first sensitive flows, security headers, rate limits, secret separation |
+| Impact | Helps users manage money, budgets, shared expenses, savings, and financial records |
 | Repository | [github.com/painjanevivek/MoneyKai](https://github.com/painjanevivek/MoneyKai) |
 
-MoneyKai is built as a product-grade personal finance workspace with privacy-aware architecture, structured financial workflows, automated checks, and deployment-focused engineering practices.
+MoneyKai is built like a real product, with user accounts, privacy pages, security checks, and workflows for daily personal finance use.
 
 </details>
 
@@ -141,18 +143,18 @@ MoneyKai is built as a product-grade personal finance workspace with privacy-awa
 
 <br />
 
-**Full-stack AI platform where users upload creative work, receive structured visual feedback, generate improvement plans, compare revisions, and manage saved review history.**
+A full-stack AI platform where users upload creative work, receive structured visual feedback, generate improvement plans, compare revisions, and keep review history.
 
 | Category | Details |
 |---|---|
 | Stack | Next.js, React, TypeScript, Firebase, Firestore, Firebase Storage |
-| Scale | Full-stack deployed platform with user dashboards and review persistence |
-| Performance | Responsive public pages, optimized upload and review flows |
+| Scale | Deployed full-stack platform with dashboards and persistent review history |
+| Performance | Responsive public pages and optimized upload/review flows |
 | Security | Token verification, rate limiting, secure headers, origin checks, log redaction, SSRF protection |
-| Impact | Turns creative work into structured, actionable design critique |
+| Impact | Turns creative work into specific feedback and revision plans |
 | Repository | [github.com/painjanevivek/IroGuide](https://github.com/painjanevivek/IroGuide) |
 
-IroGuide combines AI-assisted product thinking with strong engineering fundamentals: authentication, storage, protected APIs, profile controls, history management, and account deletion flows.
+IroGuide combines AI feedback with ordinary product details that matter: auth, saved history, profile controls, account deletion, and protected APIs.
 
 </details>
 
@@ -161,18 +163,18 @@ IroGuide combines AI-assisted product thinking with strong engineering fundament
 
 <br />
 
-**GST compliance workspace for CA firms and businesses to manage GSTINs, import purchase registers and GSTR-2B data, reconcile invoices, make ITC decisions, prepare returns, and generate audit-ready reports.**
+A GST compliance workspace for CA firms and businesses to manage GSTINs, import purchase registers and GSTR-2B data, reconcile invoices, make ITC decisions, prepare returns, and generate reports.
 
 | Category | Details |
 |---|---|
 | Stack | React, TypeScript, Vite, Node.js, Fastify, PostgreSQL, Prisma |
 | Scale | Tenant-scoped full-stack compliance architecture |
-| Performance | Modular dashboards, validation-first flows, reusable frontend/backend architecture |
-| Security | Tenant scoping, validation, audit logging, CI checks, documented testing strategy |
-| Impact | Streamlines GST reconciliation, approval, reporting, and return-preparation workflows |
+| Performance | Modular dashboards, validation flows, and reusable frontend/backend components |
+| Security | Tenant scoping, validation, audit logging, CI checks, and documented testing strategy |
+| Impact | Reduces manual GST reconciliation work and keeps approval flows traceable |
 | Repository | [github.com/painjanevivek/GstFlow](https://github.com/painjanevivek/GstFlow) |
 
-GstFlow is designed as an enterprise-style compliance product with clean separation of concerns, auditability, and maintainable full-stack architecture.
+GstFlow focuses on a real business workflow: data import, matching, decisions, approvals, and audit-ready output.
 
 </details>
 
@@ -181,18 +183,18 @@ GstFlow is designed as an enterprise-style compliance product with clean separat
 
 <br />
 
-**Explainable rule-based model using linear algebra for generic medicine substitution with strong evaluation against classical baselines.**
+An explainable model for generic medicine substitution using linear algebra and classical ML evaluation.
 
 | Category | Details |
 |---|---|
 | Stack | Python, Linear Algebra, Scikit-learn |
-| Scale | Personal ML research project |
-| Performance | 90% Top-1 accuracy, 97% Top-3 accuracy |
-| Security | Healthcare-oriented explainability and rule-based decision support |
-| Impact | Outperformed TF-IDF and Random Forest baselines in substitution accuracy |
+| Scale | Personal ML project |
+| Performance | 90% Top-1 accuracy and 97% Top-3 accuracy |
+| Security | Explainable rule-based approach for healthcare-oriented decision support |
+| Impact | Outperformed TF-IDF and Random Forest baselines |
 | Repository | [github.com/painjanevivek](https://github.com/painjanevivek) |
 
-MediGen focuses on explainable healthcare intelligence, using transparent mathematical reasoning instead of opaque black-box behavior.
+MediGen keeps the model logic understandable, which matters in healthcare-style recommendation problems.
 
 </details>
 
@@ -201,18 +203,18 @@ MediGen focuses on explainable healthcare intelligence, using transparent mathem
 
 <br />
 
-**Interactive GIS intelligence dashboard with choropleth risk maps, animated trade-flow arcs, market markers, command-bar navigation, and modular full-stack architecture.**
+An interactive GIS dashboard with choropleth risk maps, animated trade-flow arcs, market markers, command-bar navigation, and a modular React/Node architecture.
 
 | Category | Details |
 |---|---|
 | Stack | React, TypeScript, MapLibre GL JS, Node.js, Express.js |
 | Scale | Academic full-stack development lab mini project |
-| Performance | Interactive geospatial dashboard with animated map intelligence |
-| Security | Modular API design and controlled dashboard workflows |
-| Impact | Converts global intelligence data into interactive geographic insight |
+| Performance | Interactive geospatial dashboard with animated map layers |
+| Security | Modular API structure and controlled dashboard workflows |
+| Impact | Turns global intelligence data into an explorable map interface |
 | Repository | [github.com/painjanevivek/AiGlobalIntel](https://github.com/painjanevivek/AiGlobalIntel) |
 
-AI Global Intelligence Platform combines frontend interaction design, GIS visualization, backend APIs, and data-driven geopolitical interface patterns.
+This project brings together frontend interaction work, GIS visualization, backend APIs, and data presentation.
 
 </details>
 
@@ -221,7 +223,7 @@ AI Global Intelligence Platform combines frontend interaction design, GIS visual
 
 <br />
 
-**AWS-based file storage system with secure upload, retrieval, and file management.**
+An AWS-based file storage system with upload, retrieval, and file management.
 
 | Category | Details |
 |---|---|
@@ -229,10 +231,10 @@ AI Global Intelligence Platform combines frontend interaction design, GIS visual
 | Scale | Cloud computing lab mini project |
 | Performance | S3-backed object storage with lifecycle management |
 | Security | IAM least-privilege access and controlled cloud deployment |
-| Impact | Provides secure cloud file management with AWS infrastructure |
+| Impact | Provides a practical cloud file-management workflow |
 | Repository | [github.com/painjanevivek](https://github.com/painjanevivek) |
 
-Cloud Vault demonstrates practical AWS engineering through EC2 hosting, S3 storage, IAM controls, PM2 process management, and lifecycle-rule configuration.
+Cloud Vault covers EC2 hosting, S3 storage, IAM permissions, PM2 process management, and S3 lifecycle rules.
 
 </details>
 
@@ -241,18 +243,18 @@ Cloud Vault demonstrates practical AWS engineering through EC2 hosting, S3 stora
 
 <br />
 
-**Synthetic fraud data pipeline for imbalanced banking datasets using generative AI and supervised fraud detection.**
+A synthetic fraud data pipeline for imbalanced banking datasets using generative AI and supervised fraud detection.
 
 | Category | Details |
 |---|---|
 | Stack | CTGAN, TVAE, XGBoost, Python, SDV |
 | Scale | Generative AI applications project |
-| Performance | Improved Fraud Recall from 18% to 87%, F1 from 0.29 to 0.84, AUC-ROC from 0.71 to 0.96 |
-| Security | Banking fraud simulation with privacy-preserving synthetic data strategy |
-| Impact | Strengthens fraud detection on imbalanced financial datasets |
+| Performance | Fraud Recall improved from 18% to 87%, F1 from 0.29 to 0.84, AUC-ROC from 0.71 to 0.96 |
+| Security | Uses synthetic data for fraud analytics experiments |
+| Impact | Improves fraud detection performance on imbalanced financial datasets |
 | Repository | [github.com/painjanevivek](https://github.com/painjanevivek) |
 
-This project applies GenAI to a high-impact financial risk problem, showing measurable gains across recall, F1, and AUC-ROC.
+The project tests whether generated fraud examples can make downstream detection models more useful.
 
 </details>
 
@@ -261,18 +263,18 @@ This project applies GenAI to a high-impact financial risk problem, showing meas
 
 <br />
 
-**Role-based academic platform for student achievement submission, faculty verification, document uploads, admin analytics, and CSV exports.**
+A role-based platform for student achievement submission, faculty verification, cloud document uploads, admin analytics, and CSV exports.
 
 | Category | Details |
 |---|---|
 | Stack | React.js, Node.js, Express.js, MongoDB Atlas, JWT |
 | Scale | Software engineering lab mini project |
-| Performance | Reusable dashboard components and structured report export |
-| Security | Role-based access, JWT authentication, faculty verification workflow |
+| Performance | Reusable dashboard components and report export |
+| Security | Role-based access, JWT authentication, and faculty verification workflow |
 | Impact | Digitizes academic achievement collection and verification |
 | Repository | [github.com/painjanevivek](https://github.com/painjanevivek) |
 
-The system models a real institutional workflow with separate student, faculty, and admin responsibilities.
+The system models a common college workflow with separate student, faculty, and admin responsibilities.
 
 </details>
 
@@ -281,7 +283,7 @@ The system models a real institutional workflow with separate student, faculty, 
 
 <br />
 
-**ML-powered housing recommendation system using quiz-based user inputs, a responsive frontend, and a Python neural-network backend.**
+An ML-powered housing recommendation system using quiz-based user inputs, a responsive frontend, and a Python neural-network backend.
 
 | Category | Details |
 |---|---|
@@ -292,7 +294,7 @@ The system models a real institutional workflow with separate student, faculty, 
 | Impact | Awarded Government of India Copyright |
 | Repository | [github.com/painjanevivek/Homespace](https://github.com/painjanevivek/Homespace) |
 
-HomeScape translates user needs into housing recommendations through a practical ML-backed decision flow and protected intellectual property recognition.
+HomeScape turns user preferences into housing suggestions through a simple ML-backed flow.
 
 </details>
 
@@ -303,35 +305,31 @@ HomeScape translates user needs into housing recommendations through a practical
 ### Volunteer - ACM Student Chapter, PCCOE  
 **2025 - 2026**
 
-Contributed to departmental technical activities, engineering community initiatives, workshops, and event execution within the ACM Student Chapter ecosystem.
+Worked with the student chapter on departmental technical events and workshops.
 
-**Scope of Work**
-
-- Supported organization and execution of departmental technical events.
-- Coordinated workshop activities and student engagement.
-- Collaborated with technical teams in a student-led engineering environment.
+- Helped organize technical events and student activities.
+- Supported workshop planning and event flow.
+- Coordinated with students and department teams during execution.
 
 <p>
-  <img src="https://img.shields.io/badge/Event%20Operations-312E81?style=flat-square" />
-  <img src="https://img.shields.io/badge/Technical%20Workshops-4C1D95?style=flat-square" />
-  <img src="https://img.shields.io/badge/Team%20Coordination-6D28D9?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event%20Operations-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Technical%20Workshops-0369A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Team%20Coordination-0F766E?style=flat-square" />
 </p>
 
 ### Volunteer - Spectrum Tech Fest  
 **2024**
 
-Supported large-scale technical fest operations with focus on participant onboarding, registration flow, logistics, and smooth event execution.
+Supported participant registration and logistics during the technical fest.
 
-**Scope of Work**
-
-- Managed participant registration support.
-- Assisted logistics during technical fest activities.
-- Helped maintain operational flow across event activities.
+- Assisted with registrations and participant support.
+- Helped keep event activities running smoothly.
+- Supported logistics during fest operations.
 
 <p>
-  <img src="https://img.shields.io/badge/Logistics-312E81?style=flat-square" />
-  <img src="https://img.shields.io/badge/Registrations-4F46E5?style=flat-square" />
-  <img src="https://img.shields.io/badge/Event%20Execution-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/Logistics-0F172A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Registrations-0369A1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Event%20Execution-0F766E?style=flat-square" />
 </p>
 
 ---
@@ -348,100 +346,111 @@ Supported large-scale technical fest operations with focus on participant onboar
 
 ---
 
-## Coding Profiles
+## Certifications
 
-<div align="center">
+### AWS
 
-<a href="https://leetcode.com/u/painjanevivek/">
-  <img src="https://img.shields.io/badge/LeetCode-111827?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
-</a>
-<a href="https://www.geeksforgeeks.org/user/painjanevivek/">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-111827?style=for-the-badge&logo=geeksforgeeks&logoColor=2F8D46" />
-</a>
-<a href="https://www.hackerrank.com/profile/painjanevivek">
-  <img src="https://img.shields.io/badge/HackerRank-111827?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
-</a>
-<a href="https://www.codechef.com/users/painjanevivek">
-  <img src="https://img.shields.io/badge/CodeChef-111827?style=for-the-badge&logo=codechef&logoColor=8B5CF6" />
-</a>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20For%20Everyone-Udemy-0F766E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/39%20Hours-April%202026-0F172A?style=for-the-badge" />
+</p>
 
-</div>
+### Oracle
+
+<p>
+  <img src="https://img.shields.io/badge/Oracle-Database%20Fundamentals-0369A1?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Data%20Systems-0F172A?style=for-the-badge" />
+</p>
+
+### NPTEL
+
+<p>
+  <img src="https://img.shields.io/badge/NPTEL-Computer%20Science-0F766E?style=for-the-badge&logo=bookstack&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-ML%20%26%20Software%20Engineering-0F172A?style=for-the-badge" />
+</p>
+
+### Cisco
+
+<p>
+  <img src="https://img.shields.io/badge/Cisco-Networking%20Fundamentals-0369A1?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Focus-Networks%20%26%20Security-0F172A?style=for-the-badge" />
+</p>
 
 ---
 
-## GitHub Analytics
+## GitHub analytics
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=painjanevivek&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=8B5CF6&text_color=C9D1D9" />
-<img width="49%" src="https://streak-stats.demolab.com?user=painjanevivek&theme=midnight-purple&hide_border=true&background=0D1117&ring=8B5CF6&fire=A78BFA&currStreakLabel=A78BFA" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=painjanevivek&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&icon_color=22D3EE&text_color=C9D1D9" alt="GitHub stats" />
+<img width="49%" src="https://streak-stats.demolab.com?user=painjanevivek&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub streak" />
 
 <br />
 
-<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painjanevivek&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+<img width="58%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=painjanevivek&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=38BDF8&text_color=C9D1D9" alt="Top languages" />
 
 </div>
 
 ---
 
-## GitHub Trophies
+## GitHub trophies
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=painjanevivek&theme=discord&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=painjanevivek&theme=onestar&no-frame=true&no-bg=true&margin-w=12&margin-h=12&column=6" alt="GitHub trophies" />
 
 </div>
 
 ---
 
-## Contribution Activity
+## Contribution activity
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=painjanevivek&bg_color=0D1117&color=C9D1D9&line=8B5CF6&point=A78BFA&area=true&area_color=6D28D9&hide_border=true&custom_title=Contribution%20Activity" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=painjanevivek&bg_color=0D1117&color=C9D1D9&line=22D3EE&point=38BDF8&area=true&area_color=0F766E&hide_border=true&custom_title=Contribution%20Activity" width="100%" alt="Contribution activity graph" />
 
 </div>
 
 ---
 
-## Contribution Snake
+## Contribution snake
 
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/painjanevivek/painjanevivek/output/github-snake.svg" />
 </picture>
 
 </div>
 
 ---
 
-## Current Focus
+## Current focus
 
 ```yaml
 Learning:
-  - Advanced full-stack architecture
-  - API security and production backend systems
-  - Applied AI, ML pipelines, and GenAI workflows
-  - Cloud deployment and DevOps fundamentals
+  - Backend architecture
+  - API security
+  - Applied AI and ML pipelines
+  - Cloud deployment and DevOps
 
 Building:
   - MoneyKai finance workflows
-  - IroGuide AI design critique platform
-  - GstFlow GST reconciliation workspace
-  - Fraud simulation and intelligence dashboards
+  - IroGuide AI review flows
+  - GstFlow reconciliation modules
+  - Fraud simulation experiments
 
 Exploring:
   - AI agents
-  - Secure product engineering
-  - Scalable SaaS patterns
-  - Data-driven decision systems
+  - SaaS product patterns
+  - Secure full-stack systems
+  - Data products
 
 Open To:
   - Software engineering internships
-  - AI/ML engineering opportunities
+  - AI/ML engineering work
   - Open-source collaboration
   - Product-focused engineering teams
 ```
@@ -453,16 +462,16 @@ Open To:
 <div align="center">
 
 <a href="mailto:painjanevivek@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-111827?style=for-the-badge&logo=gmail&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
 <a href="https://www.linkedin.com/pub/dir/+/Painjane">
-  <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 <a href="https://github.com/painjanevivek">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=38BDF8" />
 </a>
 <a href="https://dev.to/painjanevivek">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=A78BFA" />
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
 </a>
 
 </div>
@@ -471,8 +480,9 @@ Open To:
 
 <div align="center">
 
-**Engineering useful products with clean architecture, applied intelligence, and measurable impact.**
+Building software that is useful, secure, and easy to keep improving.
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,45:6D28D9,100:111827&height=130&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0369A1,45:0F766E,100:0D1117&height=130&section=footer" width="100%" />
 
 </div>
+````
