@@ -297,42 +297,6 @@ HomeScape turns user preferences into housing suggestions through a simple ML-ba
 
 </details>
 
----
-
-## Experience
-
-### Volunteer - ACM Student Chapter, PCCOE  
-**2025 - 2026**
-
-Worked with the student chapter on departmental technical events and workshops.
-
-- Helped organize technical events and student activities.
-- Supported workshop planning and event flow.
-- Coordinated with students and department teams during execution.
-
-<p>
-  <img src="https://img.shields.io/badge/Event%20Operations-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Technical%20Workshops-0369A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Team%20Coordination-0F766E?style=flat-square" />
-</p>
-
-### Volunteer - Spectrum Tech Fest  
-**2024**
-
-Supported participant registration and logistics during the technical fest.
-
-- Assisted with registrations and participant support.
-- Helped keep event activities running smoothly.
-- Supported logistics during fest operations.
-
-<p>
-  <img src="https://img.shields.io/badge/Logistics-0F172A?style=flat-square" />
-  <img src="https://img.shields.io/badge/Registrations-0369A1?style=flat-square" />
-  <img src="https://img.shields.io/badge/Event%20Execution-0F766E?style=flat-square" />
-</p>
-
----
-
 ## Achievements
 
 | Recognition | Details |
