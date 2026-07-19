@@ -158,26 +158,6 @@ IroGuide combines AI feedback with ordinary product details that matter: auth, s
 </details>
 
 <details>
-<summary><b>GstFlow - GST Reconciliation & Return Preparation Platform</b></summary>
-
-<br />
-
-A GST compliance workspace for CA firms and businesses to manage GSTINs, import purchase registers and GSTR-2B data, reconcile invoices, make ITC decisions, prepare returns, and generate reports.
-
-| Category | Details |
-|---|---|
-| Stack | React, TypeScript, Vite, Node.js, Fastify, PostgreSQL, Prisma |
-| Scale | Tenant-scoped full-stack compliance architecture |
-| Performance | Modular dashboards, validation flows, and reusable frontend/backend components |
-| Security | Tenant scoping, validation, audit logging, CI checks, and documented testing strategy |
-| Impact | Reduces manual GST reconciliation work and keeps approval flows traceable |
-| Repository | [github.com/painjanevivek/GstFlow](https://github.com/painjanevivek/GstFlow) |
-
-GstFlow focuses on a real business workflow: data import, matching, decisions, approvals, and audit-ready output.
-
-</details>
-
-<details>
 <summary><b>MediGen - Generic Medicine Substitution</b></summary>
 
 <br />
@@ -214,26 +194,6 @@ An interactive GIS dashboard with choropleth risk maps, animated trade-flow arcs
 | Repository | [github.com/painjanevivek/AiGlobalIntel](https://github.com/painjanevivek/AiGlobalIntel) |
 
 This project brings together frontend interaction work, GIS visualization, backend APIs, and data presentation.
-
-</details>
-
-<details>
-<summary><b>Cloud Vault - Cloud-Based File Storage System</b></summary>
-
-<br />
-
-An AWS-based file storage system with upload, retrieval, and file management.
-
-| Category | Details |
-|---|---|
-| Stack | React.js, Node.js, Amazon EC2, Amazon S3, AWS IAM |
-| Scale | Cloud computing lab mini project |
-| Performance | S3-backed object storage with lifecycle management |
-| Security | IAM least-privilege access and controlled cloud deployment |
-| Impact | Provides a practical cloud file-management workflow |
-| Repository | [github.com/painjanevivek](https://github.com/painjanevivek) |
-
-Cloud Vault covers EC2 hosting, S3 storage, IAM permissions, PM2 process management, and S3 lifecycle rules.
 
 </details>
 
