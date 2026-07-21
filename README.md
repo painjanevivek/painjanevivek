@@ -218,26 +218,6 @@ The project tests whether generated fraud examples can make downstream detection
 </details>
 
 <details>
-<summary><b>Centralized Academic & Achievement Data Collection System</b></summary>
-
-<br />
-
-A role-based platform for student achievement submission, faculty verification, cloud document uploads, admin analytics, and CSV exports.
-
-| Category | Details |
-|---|---|
-| Stack | React.js, Node.js, Express.js, MongoDB Atlas, JWT |
-| Scale | Software engineering lab mini project |
-| Performance | Reusable dashboard components and report export |
-| Security | Role-based access, JWT authentication, and faculty verification workflow |
-| Impact | Digitizes academic achievement collection and verification |
-| Repository | [github.com/painjanevivek](https://github.com/painjanevivek) |
-
-The system models a common college workflow with separate student, faculty, and admin responsibilities.
-
-</details>
-
-<details>
 <summary><b>HomeScape - ML-Based Housing Recommendation System</b></summary>
 
 <br />
