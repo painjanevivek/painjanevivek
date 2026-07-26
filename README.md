@@ -16,7 +16,7 @@
 <a href="https://portfolio-azure-ten-62.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=38BDF8" />
 </a>
-<a href="www.linkedin.com/in/painjanevivek">
+<a href="https://www.linkedin.com/in/painjanevivek/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 <a href="mailto:painjanevivek@gmail.com">
@@ -307,7 +307,7 @@ Open To:
 <a href="mailto:painjanevivek@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=38BDF8" />
 </a>
-<a href="www.linkedin.com/in/painjanevivek">
+<a href="https://www.linkedin.com/in/painjanevivek/">
   <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=38BDF8" />
 </a>
 <a href="https://github.com/painjanevivek">
