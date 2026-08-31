@@ -28,17 +28,6 @@ status: Open to internships, collaborations and ambitious ideas
   <img src="https://skillicons.dev/icons?i=python,ts,js,java,cpp,react,nextjs,nodejs,express,nestjs,fastapi,postgres,mongodb,firebase,prisma,aws,docker,git,githubactions&perline=10" alt="Technology stack" />
 </p>
 
-## `> development.telemetry`
-
-**📊 Weekly development breakdown**
-
-<!--START_SECTION:waka-->
-
-```text
-WakaTime sync pending — run the workflow to populate this section.
-```
-
-<!--END_SECTION:waka-->
 
 ## `> current.focus`
 
