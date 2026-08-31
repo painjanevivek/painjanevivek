@@ -1,0 +1,33 @@
+name: Refresh development telemetry
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: waka-readme
+  cancel-in-progress: true
+
+jobs:
+  update-readme:
+    name: Update WakaTime metrics
+    runs-on: ubuntu-latest
+    steps:
+      - name: Render weekly development breakdown
+        uses: athul/waka-readme@370590ad8da8f54282ed92aa42b7c25ecbd5a9a6
+        with:
+          WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+          SECTION_NAME: waka
+          TIME_RANGE: last_7_days
+          LANG_COUNT: 5
+          SHOW_TITLE: false
+          SHOW_TIME: true
+          SHOW_TOTAL: false
+          STOP_AT_OTHER: false
+          CODE_LANG: text
+          BLOCKS: "░▒▓█"
+          COMMIT_MESSAGE: "chore: refresh development telemetry"
